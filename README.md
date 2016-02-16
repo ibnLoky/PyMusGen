@@ -1,0 +1,2 @@
+# PyMusGen
+Python MIDI generation
